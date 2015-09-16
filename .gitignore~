@@ -1,0 +1,10 @@
+# Java class files
+*.class
+
+# Genereated files
+bin
+.classpath
+.project
+.settings
+
+
